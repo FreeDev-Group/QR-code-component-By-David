@@ -27,4 +27,17 @@ margin-bottom:10px;
   font-size:0.9em;
   color:hsl(220,15%,55%);
   line-height:1.5;
+
 }
+.attribution {  
+
+  font-size:14px;
+ }
+.attribution a {
+   color: blue;
+   text-decoration:none;
+   font-weight:bold;
+  }
+  .attribution a:hover{
+    text-decoration: underline;
+  }
