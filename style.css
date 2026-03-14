@@ -1,30 +1,5 @@
-*{
-  margin: 0;
-  padding: 0;
-  font-family: 'Times New Roman', Times, serif;
-}
-body{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  background: hsl(212,45%,89);
-}
-.card{
-  background-color: hsl(0,0%,100%);
-  padding: 20px;
-  border-radius: 15px;
-  text-align: center;
-  max-width:300px;
-  box-shadow: 0 8px 20px rgb(0,0,0,0.1);
-}
-.qr-image{
-  width: 100%;
-border-radius:10px;
-margin-bottom:10px;
-}
-.description{
-  font-size:0.9em;
-  color:hsl(220,15%,55%);
-  line-height:1.5;
-}
+/* Feel free to remove these styles or customise in your own stylesheet 👍 */
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
