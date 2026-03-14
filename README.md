@@ -65,7 +65,7 @@ project-folder/
 
 ## Author
 
-Mentee: **DAvid M.**
+Mentee: **DAvid mumeme**
 
 Mentor: **Salomon Mwilo**
 
