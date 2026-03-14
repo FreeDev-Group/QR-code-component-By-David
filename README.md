@@ -186,7 +186,11 @@ You should improve your code based on feedback.
 
 # Deployment
 
+Mentee: **David Mumeme**
+
 Once the challenge is completed, the project should be deployed using **GitHub Pages**.
+
+The deployed project link will be added to the main README
 
 The deployed project link will be added to the main README.
 
