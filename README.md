@@ -1,244 +1,80 @@
-# Development Guide – QR Code Component
+# Frontend Mentor - QR code component solution
+This is my solution to the QR Code Component Challenge on Frontend Mentor. This project helped me strengthen my HTML and CSS fundamentals while building a clean and responsive UI.
 
-This branch contains the **development workflow and contribution guidelines** for the Frontend Mentor QR Code Component Challenge.
+## Challenges Encountered 
 
-This project is part of the **FreeDev Pair Challenge Program**, where mentees collaborate with a mentor and learn professional GitHub practices.
+One challenge was making sure the QR code card was properly centered and looked consistent across different screen sizes. I overcame this by experimenting with CSS Flexbox and testing the layout on multiple devices. Another challenge was deploying the site: the project did not display at first because the index.html file was not at the root of the repository. I fixed this by reorganizing the folder structure and ensuring all file paths were correct.
 
----
+## Screenshot
+#  Desktop
+![Desktop Preview](./images/Screenshot_1QR_code_desktop.png)
 
-# Challenge Information
+###  Mobile
+![Mobile Preview](./images/Screenshot_1_QR_code_mobile.png)
 
-Frontend Mentor Challenge:
 
-https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+### 🔗 Links
+Solution URL: [*/not yet deployed/*]
+- Live Site URL: [*/not yet deployed/*]
 
-The objective is to recreate the QR Code Component layout using **Vanilla HTML and CSS**.
 
----
+# Learning Reflection
 
-# Team
+## My process
+Built with
+Semantic HTML5 markup
+CSS3 (Flexbox, Grid, custom properties)
+Mobile-first workflow
+Responsive design techniques
 
-Mentor : Salomon Mwilo
-Mentee : David M.
 
----
+## What I Learned
+Through this project, I improved my skills in HTML and CSS, especially using Flexbox to center and align elements. I learned how to create a clean, responsive layout that works on both mobile and desktop screens. I also gained experience deploying a project online using GitHub Pages, which taught me how to structure files correctly and manage versions with Git.
 
-# Technologies
+## Example code I’m proud of:
+'''html
+<h1 class="title">
+        Improve your front-end skills by building projects
+      </h1>
 
-This project must be built using:
+''''CSS
 
-- HTML5
-- CSS3
-- Git & GitHub
+title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  margin-bottom: 15px;
+}
 
-Not allowed:
 
-- React
-- Vue
-- CSS frameworks
-- JavaScript frameworks
+## Built With
+HTML5
+CSS3
+Flexbox
+Mobile-first workflow
 
-The goal is to **master the fundamentals**.
+## Improvements for Future Projects
+Next time, I would focus on writing cleaner, more maintainable CSS and using semantic HTML tags more effectively. I would also spend more time on subtle design enhancements to make the layout more visually appealing. Additionally, I plan to improve the README documentation to provide clearer instructions and project insights.
 
----
+## How AI Helped Me
+I used **AI assistance ** to:
+  
+- Improve accessibility by adding proper  attributes and semantic HTML tags  
+- Make my CSS cleaner and more maintainable  
+- Ensure responsiveness and design fidelity on both mobile and desktop  
+- Rewrite my README to be more professional and structured  
 
-# Project Structure
+Using AI helped me learn faster and avoid common mistakes while still understanding the concepts myself.
 
-```
+## Author
 
-project-folder/
+- GitHub: [David-max-tech](https://github.com/David-max-tech)
+- Frontend Mentor: [David-max-tech](https://www.frontendmentor.io/profile/David-max-tech)
+- Twitter - [@David Mumeme]
 
-│
+## Acknowledgments
 
-├── index.html
-
-├── css
-
-├── images/
-
-    └── favicon-32x32.png
-    └── image-qr-code.png
-
-├── custom-README-templete.md
-
-└── README.md
-
-```
-
----
-
-# Branch Strategy
-
-This project uses two branches.
-
-### main
-Contains the **stable version** of the project.
-
-### develop
-Used for **active development and contributions**.
-
-All work should be done in `develop`.
-
----
-
-# Development Workflow
-
-The workflow follows these steps.
-
-```
-GitHub Issue
-↓
-Implement the task
-↓
-Commit the code
-↓
-Push to GitHub
-↓
-Open Pull Request
-↓
-Code Review by Mentor
-↓
-Merge
-
-```
-
----
-
-# Working with Issues
-
-All tasks are managed through **GitHub Issues**.
-
-Each issue contains:
-
-- a description of the task
-- specific instructions
-- expected result
-
-Example issues:
-
-```
-
-Issue #1 – Setup project structure
-Issue #2 – Create HTML layout
-Issue #3 – Implement CSS styling
-Issue #4 – Make the layout responsive
-Issue #5 – Final polish
-
-```
-
-You should always reference the issue number when committing.
-
----
-
-# Commit Message Guidelines
-
-Commit messages must be clear and descriptive.
-
-Examples:
-
-```
-
-feat: add HTML structure #2
-style: implement card layout #3
-fix: correct image alignment #3
-
-```
-
-Avoid vague commits such as:
-
-```
-
-update
-changes
-fix
-
-```
-
----
-
-# Daily Push Requirement
-
-Mentees are expected to:
-
-- work on the project daily
-- push their progress to GitHub
-- keep commits small and descriptive
-
-Consistency is essential for learning.
-
----
-
-# Code Review
-
-All code will be reviewed by the mentor.
-
-The mentor may comment on:
-
-- HTML structure
-- CSS techniques
-- code readability
-- responsiveness
-- best practices
-
-You should improve your code based on feedback.
-
----
-
-# Deployment
-
-Mentee: **David Mumeme**
-
-Once the challenge is completed, the project should be deployed using **GitHub Pages**.
-
-The deployed project link will be added to the main README
-
-The deployed project link will be added to the main README.
-
----
-
-# Learning Objective
-
-This challenge helps mentees practice:
-
-- semantic HTML
-- CSS layout techniques
-- responsive design
-- GitHub collaboration
-- professional coding workflow
-
----
-
-# Mentorship
-
-This project is part of the **A-Team mentorship structure** where mentees work closely with a mentor to improve their development skills.
-
-The mentor provides:
-
-- technical guidance
-- code reviews
-- improvement suggestions
-
----
-
-# Communication
-
-Technical discussions and questions should be posted in the **GitHub Discussions** section of this repository.
-
-This helps document the learning process and keeps communication organized.
-
----
-
-# Final Project Reflection
-
-At the end of the project, the mentee will complete the file:
-
-custom-README-template.md
-
-This file will allow the mentee to document:
-
-- what they learned
-- challenges encountered
-- solutions they implemented
-- reflections about the development process
-
-This step is important because documenting your work is a key skill for professional developers.
+- [Michael Burns](https://michaelkentburns.com/) Thanks to Michael Burns for supporting this project.  
+- [Salomon mwilo](https://github.com/Salomonmwilo) – mentor who provided valuable feedback and advice.  
+- [FreeDev Group my team](https://github.com/FreeDev-Group) – for providing resources, inspiration, and a collaborative environment.  
+- [Frontend Mentor](https://www.frontendmentor.io) – for the challenge and design mockups.  
